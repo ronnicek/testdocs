@@ -36,6 +36,7 @@ Write-Host "Fuck yeah!"
 3. Test 123
 
 ## Boxes (html)
-<div class="warning">
-    Allllllllaaaaaahhhhh!!!!
+<div class="alert">
+  <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
+  This is an alert box.
 </div>
