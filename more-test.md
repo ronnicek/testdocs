@@ -3,7 +3,7 @@
 
 # Header
 
-<div class="alert alert-success">
+<div class="alert">
 Test... 
 </div>
 
