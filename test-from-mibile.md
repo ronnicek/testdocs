@@ -36,6 +36,6 @@ Write-Host "Fuck yeah!"
 3. Test 123
 
 ## Boxes (html)
-<div class="alert alert-success">
+<div class="warning">
     Allllllllaaaaaahhhhh!!!!
 </div>
