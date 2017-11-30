@@ -11,6 +11,6 @@ Test...
 Blå blå blå.... 
 
 
-<div class="warning">
+<div class="error">
 Huehuebuehue
 </div>
